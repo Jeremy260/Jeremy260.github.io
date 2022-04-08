@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Lato');
 
-d* {
-    outline: 1px dotted lime;
-}
+
 
 body {
 background-color: #F2F2F2;
@@ -56,6 +54,7 @@ color: white;
 padding-left: 10px;
 padding-right: 10px;
 text-decoration: none;
+    
 }
 
 
