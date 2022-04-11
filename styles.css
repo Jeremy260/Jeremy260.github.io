@@ -141,7 +141,7 @@ color: #F16C65;
 
 #portfolio #gallery {
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
     margin-top: 2em;
 }
 
