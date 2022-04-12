@@ -192,3 +192,25 @@ color: #F16C65;
     padding-top: 1em;
 }
 
+
+/* footer */
+
+#footer {
+    color: #666D89;
+    background-color: #2D303A;
+    font-size: 0.7em;
+    padding: 40px 20px;
+    padding-bottom: 50px;
+}
+
+#footer .centered {
+    display: grid;
+    grid-template-columns: 65% auto;
+    max-width: 950px;
+    margin: auto;
+}
+
+#footer .social {
+    margin-top: -10px;
+    text-align: right;
+}
